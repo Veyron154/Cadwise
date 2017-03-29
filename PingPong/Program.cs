@@ -23,6 +23,7 @@ namespace PingPong
             }
             catch (Exception exception)
             {
+
                 Console.WriteLine(exception.Message);
                 Console.ReadLine();
             }
